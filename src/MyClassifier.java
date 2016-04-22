@@ -14,6 +14,7 @@ public class MyClassifier {
 
 
         int a=1;
+        int b=2;
 
         IWordsDataSource wds = new MyWordsDataSource();
         final BayesianClassifier classifier = new BayesianClassifier(wds, new MyTkoenizer());
