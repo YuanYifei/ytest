@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Classifier4J-0.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Classifier4J-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Classifier4J-0.6-dist/core/src/java" />
+    </SOURCES>
+  </library>
+</component>
