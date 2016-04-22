@@ -17,6 +17,7 @@ public class MyClassifier {
         int xxx =1;
         int bb=2;
         String xcxc = "sdsds";
+        String xcxcxx = "sdsds";
 
         IWordsDataSource wds = new MyWordsDataSource();
         final BayesianClassifier classifier = new BayesianClassifier(wds, new MyTkoenizer());
