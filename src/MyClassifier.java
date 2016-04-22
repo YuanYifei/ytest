@@ -13,7 +13,9 @@ public class MyClassifier {
     public static void main(String[] args) throws Exception {
 
 
+        int a=1;
         int xxx =1;
+        int bb=2;
 
         IWordsDataSource wds = new MyWordsDataSource();
         final BayesianClassifier classifier = new BayesianClassifier(wds, new MyTkoenizer());
